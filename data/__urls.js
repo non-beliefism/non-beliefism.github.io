@@ -7,7 +7,7 @@ function ___facebook ()
 }
 function ___folioverse ()
 {
-	window.open ("https://g0d.rf.gd);
+	window.open ("http://g0d.rf.gd");
 }
 
 function ___book ()
